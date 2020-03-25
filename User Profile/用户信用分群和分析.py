@@ -1,6 +1,6 @@
 # 【sklearn】K-Means聚类与PCA降维实践 - 用户信用分群和分析
 
-# https://blog.csdn.net/duanlianvip/article/details/100973811?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+# https://blog.csdn.net/duanlianvip/article/details/100973811
 
 '''
 本实验使用电信用户的通信行为数据集，进行用户信用分群和分析。
